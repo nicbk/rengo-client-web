@@ -1,0 +1,19 @@
+{
+  "name": "rengo-client",
+  "collaborators": [
+    "xrop <xrop@xrop.me>"
+  ],
+  "description": "Rengo game client",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "files": [
+    "rengo_client_bg.wasm",
+    "rengo_client.js",
+    "rengo_client.d.ts",
+    "LICENSE-APACHE",
+    "LICENSE-MIT"
+  ],
+  "module": "rengo_client.js",
+  "types": "rengo_client.d.ts",
+  "sideEffects": false
+}

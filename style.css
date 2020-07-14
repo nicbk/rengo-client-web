@@ -1,0 +1,44 @@
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+
+#game {
+    padding-top: 2%;
+}
+
+#gameStatus {
+    padding-left: 2.5%;
+}
+
+#gameStatusRoom {
+    border: 1px solid grey;
+}
+
+#gameStatusChatMessages {
+    margin-bottom: 2%;
+    overflow: auto;
+    border: 1px solid grey;
+}
+
+#login {
+    padding-top: 2%;
+}
+
+#playOption {
+    padding-left: 2%;
+    padding-right: 2%;
+    position: relative;
+}
+
+#playPass {
+    display: inline-block;
+    font-size: 2vw;
+}
+
+#playQuit {
+    display: inline-block;
+    font-size: 2vw;
+    float: right;
+}
