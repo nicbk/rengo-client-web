@@ -6,6 +6,10 @@
   "description": "Rengo game client",
   "version": "0.1.0",
   "license": "MIT OR Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/xrop/rengo-client.git"
+  },
   "files": [
     "rengo_client_bg.wasm",
     "rengo_client.js",
