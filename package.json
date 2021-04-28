@@ -14,8 +14,8 @@
     "rengo_client_bg.wasm",
     "rengo_client.js",
     "rengo_client.d.ts",
-    "LICENSE-APACHE",
-    "LICENSE-MIT"
+    "LICENSE-MIT",
+    "LICENSE-APACHE"
   ],
   "module": "rengo_client.js",
   "types": "rengo_client.d.ts",
