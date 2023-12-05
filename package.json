@@ -13,11 +13,11 @@
   "files": [
     "rengo_client_bg.wasm",
     "rengo_client.js",
-    "rengo_client.d.ts",
-    "LICENSE-MIT",
-    "LICENSE-APACHE"
+    "rengo_client.d.ts"
   ],
   "module": "rengo_client.js",
   "types": "rengo_client.d.ts",
-  "sideEffects": false
+  "sideEffects": [
+    "./snippets/*"
+  ]
 }
